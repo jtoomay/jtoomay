@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jtoomay
 - 👀 I’m interested in Web Development/Design
-- 🌱 I’m currently learning HTML/CSS/JavaScript
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on JavaScript projects
-- 📫 How to reach me Email: jtoomay1@stumail.jccc.edu
+- 📫 How to reach me Email: jake@toomay.dev
 
 <!---
 jtoomay/jtoomay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
