@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jtoomay
 - 👀 I’m interested in Web Development/Design
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on JavaScript projects
+- 💞️ I’m looking to collaborate on Typescript projects
 - 📫 How to reach me Email: jake@toomay.dev
 
 <!---
